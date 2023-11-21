@@ -1,4 +1,6 @@
 # dosya_islemleri
+# path_provider kullanılarak dosyalama işlemi yapıldı. 
+# Dosya okuma, yazma ve silme işlemi yapıldı
 
 A new Flutter project.
 
